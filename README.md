@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# Predicting Student Academic Success
 This project is a part of the ADS-502 course in the Applied Data Science Program at the
 University of San Diego.
 -- Project Status: [Completed]
